@@ -4,10 +4,10 @@
 <p align="left">
    <a href="https://phuris.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://phuris.co/"></a>
 <a href="https://www.linkedin.com/in/phuris-kruacharee-8ba72a2a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/-phuris-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuris-kruacharee-8ba72a2a0/"></a>
-<a href="https://www.facebook.com/PhurisKR" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-0075b5?style=flat-square&logo=Facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/PhurisKR" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white"></a>
 <a href="mailto:phurissor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-phurissor@gmail.com-0075b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
 <a href="https://medium.com/@phuris.k"><img alt="Medium" src="https://img.shields.io/badge/-@phuris.k-0075b5?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@phuris.k"></a>
-<a href="https://www.facebook.com/PhurisKR" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white"></a>
+
    
 </p>
 
