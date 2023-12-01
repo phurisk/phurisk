@@ -11,9 +11,7 @@
    
 </p>
 
-<h3 align="left">  I am studying statistics and data science. Bachelor's degree from <font color="#a83b24">Khon Kaen University</font>
- </h3>
-<h3 align="left">I am studying statistics and data science. Bachelor's degree from <span style="color:#a83b24;">Khon Kaen University</span></h3>
+<h3 align="left">I am studying statistics and data science. Bachelor's degree from Khon Kaen University </h3>
 
 ---
 
