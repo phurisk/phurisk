@@ -11,7 +11,7 @@
    
 </p>
 
-<h3 align="left">  I'm an industrial engineer who is interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen. </h3>
+<h3 align="left">  I am studying statistics and data science. Bachelor's degree from Khon Kaen University </h3>
 
 ---
 
