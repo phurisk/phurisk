@@ -4,7 +4,7 @@
 <p align="left">
    <a href="https://phuris.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-dewith.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://phuris.co/"></a>
    <a href="https://www.linkedin.com/in/phuris-kruacharee-8ba72a2a0/"><img alt="LinkedIn" src="https://img.shields.io/badge/-phuris-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuris-kruacharee-8ba72a2a0/"></a>
-   <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.facebook.com%2FPhurisKR">
+   <a href="https://www.facebook.com/PhurisKR" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white"></a>
 
    <a href="mailto:phurissor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-phurissor@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
    <a href="https://medium.com/@phuris.k"><img alt="Medium" src="https://img.shields.io/badge/-@phuris.k-03a57a?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@phuris.k"></a>
