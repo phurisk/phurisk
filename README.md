@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/PhurisKR" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-0075b5?style=flat-square&logo=Facebook&logoColor=white"></a>
 <a href="mailto:phurissor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-phurissor@gmail.com-0075b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
 <a href="https://medium.com/@phuris.k"><img alt="Medium" src="https://img.shields.io/badge/-@phuris.k-0075b5?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@phuris.k"></a>
-
+<a href="https://www.linkedin.com/in/dewithmiramon/"><img alt="LinkedIn" src="https://img.shields.io/badge/-dewithmiramon-0075b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dewithmiramon/"></a> 
 </p>
 
 <h3 align="left">  I'm an industrial engineer who is interested in data analytics and applied machine learning. Enthusiast of graphic design and illustration. Internet citizen. </h3>
