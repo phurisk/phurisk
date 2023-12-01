@@ -1,5 +1,5 @@
 
-<h1 align="left"> Word up, I'm Phuris 👋 </h1>
+<h1 align="left"> Word up, I'm Phuris 👋😺 </h1>
 
 <p align="left">
    <a href="https://phuris.co/"><img alt="Portfolio" src="https://img.shields.io/badge/-phuris.co-black?style=flat-square&logo=squarespace&logoColor=white&link=https://phuris.co/"></a>
