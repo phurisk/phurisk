@@ -7,7 +7,6 @@
 <a href="https://www.facebook.com/PhurisKR" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=Facebook&logoColor=white"></a>
 <a href="mailto:phurissor@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-phurissor@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dewithmiramon@gmail.com"></a>
 <a href="https://medium.com/@phuris.k"><img alt="Medium" src="https://img.shields.io/badge/-@phuris.k-0075b5?style=flat-square&color=000000&labelColor=000000&logo=Medium&link=https://medium.com/@phuris.k"></a>
-
    
 </p>
 
