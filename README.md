@@ -18,7 +18,7 @@
 <img align="right" height="150" width="210" src="data.gif">
 
 - 🌱 **I’m currently learning:** Advanced Data Analysis
-- 👯 **I’m looking to collaborate on:** data science projects/competitions
+- 👯 **I am looking for an internship in:** Data Analysis/Data Administrator/
 - ⚡ **Hobbies:** guitar, video game, music
 
 ---
