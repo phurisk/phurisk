@@ -26,4 +26,4 @@
 <a href="https://phuris-kr.vercel.app/"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phurisk&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=phurisk&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /></a>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phurisk)](https://github.com/phurisk/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phurisk)]()
