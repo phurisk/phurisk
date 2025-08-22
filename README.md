@@ -25,5 +25,3 @@
 
 <a href="https://phuris-kr.vercel.app/"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phurisk&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=phurisk&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /></a>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phurisk&langs_count=8&exclude_repo=angular-ollama-chat,Portfolio)
